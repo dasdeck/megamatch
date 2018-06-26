@@ -1,0 +1,3 @@
+# megamatch
+
+a simple wrapper a round minimatch, docs may come soon....
